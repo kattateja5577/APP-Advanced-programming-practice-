@@ -1,8 +1,8 @@
 public class StudentInformation {
 public static void main(String[] args) {
 // Student Details
-String studentName = "Yogeeswar";
-String registerNumber = "RA2511030010305";
+String studentName = "K.Tejaswi";
+String registerNumber = "RA2511030010310";
 String department = "Computer Science and Engineering";
 int yearOfStudy = 2;
 String collegeName = "SRM Engineering College";
